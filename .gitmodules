@@ -1,0 +1,27 @@
+[submodule "sts"]
+	path = sts
+	url = https://github.com/kieselsteini/sts.git
+[submodule "tsf"]
+	path = tsf
+	url = https://github.com/schellingb/TinySoundFont.git
+[submodule "mini_al"]
+	path = mini_al
+	url = https://github.com/dr-soft/mini_al.git
+[submodule "dr_libs"]
+	path = dr_libs
+	url = https://github.com/mackron/dr_libs.git
+[submodule "stb"]
+	path = stb
+	url = https://github.com/nothings/stb.git
+[submodule "other"]
+	path = other
+	url = https://github.com/nothings/single_file_libs
+[submodule "sokol"]
+	path = sokol
+	url = https://github.com/floooh/sokol.git
+[submodule "cute"]
+	path = cute
+	url = https://github.com/RandyGaul/cute_headers.git
+[submodule "miniz"]
+	path = miniz
+	url = https://github.com/richgel999/miniz.git
