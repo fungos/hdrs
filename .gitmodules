@@ -25,3 +25,9 @@
 [submodule "miniz"]
 	path = miniz
 	url = https://github.com/richgel999/miniz.git
+[submodule "atomix"]
+	path = atomix
+	url = https://github.com/BareRose/atomix.git
+[submodule "swrap"]
+	path = swrap
+	url = https://github.com/BareRose/swrap.git
