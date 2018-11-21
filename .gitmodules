@@ -31,3 +31,6 @@
 [submodule "swrap"]
 	path = swrap
 	url = https://github.com/BareRose/swrap.git
+[submodule "px"]
+	path = px
+	url = https://github.com/pplux/px
