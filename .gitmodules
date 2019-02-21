@@ -34,3 +34,6 @@
 [submodule "px"]
 	path = px
 	url = https://github.com/pplux/px
+[submodule "hopscotch-map"]
+	path = hopscotch-map
+	url = https://github.com/Tessil/hopscotch-map.git
