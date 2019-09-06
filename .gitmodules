@@ -37,3 +37,9 @@
 [submodule "hopscotch-map"]
 	path = hopscotch-map
 	url = https://github.com/Tessil/hopscotch-map.git
+[submodule "mmx"]
+	path = mmx
+	url = https://github.com/vurtun/mmx
+[submodule "libs"]
+	path = libs
+	url = https://github.com/mattiasgustavsson/libs
