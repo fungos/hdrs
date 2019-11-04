@@ -43,3 +43,6 @@
 [submodule "libs"]
 	path = libs
 	url = https://github.com/mattiasgustavsson/libs
+[submodule "jar"]
+	path = jar
+	url = https://github.com/kd7tck/jar
