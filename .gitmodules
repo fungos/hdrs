@@ -46,3 +46,6 @@
 [submodule "jar"]
 	path = jar
 	url = https://github.com/kd7tck/jar
+[submodule "xbyak"]
+	path = xbyak
+	url = https://github.com/herumi/xbyak.git
