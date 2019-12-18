@@ -49,3 +49,6 @@
 [submodule "xbyak"]
 	path = xbyak
 	url = https://github.com/herumi/xbyak.git
+[submodule "tiny-utf8"]
+	path = tiny-utf8
+	url = https://github.com/DuffsDevice/tiny-utf8.git
