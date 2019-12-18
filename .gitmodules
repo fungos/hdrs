@@ -52,3 +52,6 @@
 [submodule "tiny-utf8"]
 	path = tiny-utf8
 	url = https://github.com/DuffsDevice/tiny-utf8.git
+[submodule "cutf"]
+	path = cutf
+	url = https://github.com/tapika/cutf
