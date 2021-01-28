@@ -55,3 +55,6 @@
 [submodule "cutf"]
 	path = cutf
 	url = https://github.com/tapika/cutf
+[submodule "cista"]
+	path = cista
+	url = https://github.com/felixguendling/cista
