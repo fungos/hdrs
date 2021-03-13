@@ -58,3 +58,6 @@
 [submodule "cista"]
 	path = cista
 	url = https://github.com/felixguendling/cista
+[submodule "ctl"]
+	path = ctl
+	url = https://github.com/glouw/ctl
