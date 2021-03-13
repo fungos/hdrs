@@ -64,3 +64,6 @@
 [submodule "alternative-ctl"]
 	path = alternative-ctl
 	url = https://github.com/rurban/ctl
+[submodule "cpp-handle-container"]
+	path = cpp-handle-container
+	url = https://github.com/pr0g/cpp-handle-container
