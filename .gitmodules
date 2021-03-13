@@ -61,3 +61,6 @@
 [submodule "ctl"]
 	path = ctl
 	url = https://github.com/glouw/ctl
+[submodule "alternative-ctl"]
+	path = alternative-ctl
+	url = https://github.com/rurban/ctl
