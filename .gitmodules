@@ -67,3 +67,6 @@
 [submodule "cpp-handle-container"]
 	path = cpp-handle-container
 	url = https://github.com/pr0g/cpp-handle-container
+[submodule "kcp"]
+	path = kcp
+	url = https://github.com/skywind3000/kcp
